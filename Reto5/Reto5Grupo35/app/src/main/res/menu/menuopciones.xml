@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fav"
+        android:icon="@drawable/ic_baseline_favorite6_24"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/opcion1"
+        android:title="Productos" />
+
+    <item
+        android:id="@+id/opcion2"
+        android:title="Servicios" />
+
+    <item
+        android:id="@+id/opcion3"
+        android:title="Sucursales" />
+</menu>
